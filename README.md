@@ -1,2 +1,3 @@
 # hello-india
-hllo-indiais based on github guides
+hello-india is based on github guides changes done in feature
+about me
